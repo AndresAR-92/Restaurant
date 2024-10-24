@@ -74,3 +74,10 @@ img {
     margin-top: 8px;
     vertical-align: middle;
 }
+
+.menu {
+    margin: auto;
+    width: 575px;
+    display: block;
+    border: 6px solid #fee28c;
+}

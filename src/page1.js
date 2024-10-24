@@ -5,6 +5,7 @@ import img_4 from './img-4.jpg';
 
 export function pageLoad() {
     const contentEl = document.querySelector('#content');
+    contentEl.innerHTML = '';
 
     const title = document.createElement('h1');
     title.classList.add('title');
