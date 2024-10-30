@@ -81,3 +81,11 @@ img {
     display: block;
     border: 6px solid #fee28c;
 }
+
+.logo {
+    margin: auto;
+    margin-top: 55px;
+    width: 400px;
+    display: block;
+    border: 3px solid #fee28c;
+}
